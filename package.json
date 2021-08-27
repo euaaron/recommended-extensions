@@ -7,14 +7,14 @@
         "type": "git",
         "url": "https://github.com/euaaron/recommended-extensions.git"
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.59.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "aaron-bond.better-comments", 
         "alefragnani.Bookmarks", 
         "Angular.ng-template", 
@@ -31,9 +31,8 @@
         "eg2.vscode-npm-script", 
         "diego-ferreira.monodracula",
         "esbenp.prettier-vscode",
-        "formulahendry.auto-close-tag", 
-        "formulahendry.auto-rename-tag", 
-        "formulahendry.code-runner", 
+        "formulahendry.code-runner",
+        "GitHub.remotehub",
         "GitHub.vscode-pull-request-github", 
         "Gruntfuggly.todo-tree", 
         "hbenl.vscode-test-explorer", 
@@ -68,7 +67,8 @@
         "stylelint.vscode-stylelint", 
         "tombonnike.vscode-status-bar-format-toggle", 
         "VisualStudioExptTeam.vscodeintellicode", 
-        "vivaxy.vscode-conventional-commits", 
+        "vivaxy.vscode-conventional-commits",
+        "vsls-contrib.gistfs",
         "webhint.vscode-webhint", 
         "wix.vscode-import-cost",
         "wix.glean"
