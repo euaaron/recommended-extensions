@@ -16,6 +16,8 @@ Typescript, React and Angular Snippets, and many more.
 Feel free to check my recommended extensions and just install those that fit for
 you.
 
+This is a showcase.
+
 > **Note** -
 > I only did the extension pack. None of the extensions included were made by me.
 
