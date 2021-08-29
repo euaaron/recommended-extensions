@@ -21,3 +21,7 @@ you.
 
 If you want to reproduce my entire workspace, take a look at my
 [settings.json](https://gist.github.com/euaaron/adfb4b344320298ec985c58b508f4edb).
+
+## How will your VS Code become after installing this pack?
+
+![showcase](https://raw.githubusercontent.com/euaaron/recommended-extensions/main/assets/showcase.gif)
