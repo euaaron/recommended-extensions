@@ -35,4 +35,4 @@ jobs:
         run: vsce package
 
       - name: Publish the Extension
-        run: vsce publish -p $TOKEN
+        run: vsce publish -p ${{ secrets.TOKEN }}
