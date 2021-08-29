@@ -3,7 +3,7 @@
     "displayName": "Aaron's Recommended Extensions",
     "description": "A VS Code Extension Pack with all extensions that I find useful to have. From themes to functionalities extensions.",
     "publisher": "AaronCarneiro",
-    "icon": "./assets/icon.png",
+    "icon": "assets/icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/euaaron/recommended-extensions.git"
