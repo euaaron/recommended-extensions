@@ -2,6 +2,11 @@
 
 All notable changes to the "aaron-s-recommended-extensions" extension pack will be documented in this file.
 
+## [Showcase Update - v0.0.4]
+
+- Added a new icon for the extension pack and also a showcase GIF.
+- Updated the pack version just because I can't update the extension without change the version number...
+
 ## [Update - v0.0.3]
 
 - **Removed ➖**

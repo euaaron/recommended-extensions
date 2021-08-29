@@ -1,5 +1,11 @@
 # Aaron's Recommended Extensions
 
+## How will your VS Code become after installing this pack?
+
+![showcase](https://firebasestorage.googleapis.com/v0/b/aarons-cdn.appspot.com/o/code%2Fextensions%2Frecommended%2Fpackshowcase.gif?alt=media&token=ae383d9b-2b30-4b4a-a1e2-55458018e6bf)
+
+## About
+
 As a Windows Insider and a curious guy, I needed to reinstall VS Code many times
 doing to System crashes that required SO reinstallations or just because I wanted
 to try a different Linux distribution.
@@ -22,6 +28,9 @@ you.
 If you want to reproduce my entire workspace, take a look at my
 [settings.json](https://gist.github.com/euaaron/adfb4b344320298ec985c58b508f4edb).
 
-## How will your VS Code become after installing this pack?
+## To do
 
-![showcase](https://raw.githubusercontent.com/euaaron/recommended-extensions/main/assets/showcase.gif)
+- [x] Create an icon
+- [x] Create a showcase gif
+- [ ] Create minor extension packs with only extensions related to specific things
+- [ ] Update this pack with the minor extension packs
