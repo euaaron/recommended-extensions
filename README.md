@@ -2,7 +2,7 @@
 
 ## How will your VS Code become after installing this pack?
 
-![showcase](https://firebasestorage.googleapis.com/v0/b/aarons-cdn.appspot.com/o/code%2Fextensions%2Frecommended%2Fpackshowcase.gif?alt=media&token=ae383d9b-2b30-4b4a-a1e2-55458018e6bf)
+![showcase](https://cdn.aaroncarneiro.com/QCsWMpb.gif)
 
 ## About
 

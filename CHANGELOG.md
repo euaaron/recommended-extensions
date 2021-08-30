@@ -2,6 +2,13 @@
 
 All notable changes to the "aaron-s-recommended-extensions" extension pack will be documented in this file.
 
+## [Fix and Update - v0.0.5]
+
+- Changed showcase's gif storage and the url
+
+- **Added ➕**
+  - Ponicode - an AI powered unit test assistant
+
 ## [Showcase Update - v0.0.4]
 
 - Added a new icon for the extension pack and also a showcase GIF.
