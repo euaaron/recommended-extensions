@@ -32,5 +32,5 @@ If you want to reproduce my entire workspace, take a look at my
 
 - [x] Create an icon
 - [x] Create a showcase gif
-- [ ] Create minor extension packs with only extensions related to specific things
-- [ ] Update this pack with the minor extension packs
+- [x] Create minor extension packs with only extensions related to specific things
+- [x] Update this pack with the minor extension packs
