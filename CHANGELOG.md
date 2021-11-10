@@ -2,6 +2,23 @@
 
 All notable changes to the "aaron-s-recommended-extensions" extension pack will be documented in this file.
 
+## [Refactor - v0.3.0]
+
+- Moved Loiane's Typescript Extension Pack to my Node Recommended Extensions pack
+
+- **Added ➕**
+  - Luna Paint - create or edit images and icons directly from VS Code.
+  - Draw.io Integration - create or edit diagrams and flowcharts directly from VS Code.
+
+## [Refactor - v0.2.0]
+
+- Changed update format to follow semver specification
+
+- Replaced extensions with specific extension packs
+
+- **Removed ➖**
+  - Ponicode
+
 ## [Fix and Update - v0.0.5]
 
 - Changed showcase's gif storage and the url
